@@ -19,3 +19,4 @@ C:\Users\Marki\source\repos\WebApplicationAPI\WebApplicationAPI\obj\Debug\netcor
 C:\Users\Marki\source\repos\WebApplicationAPI\WebApplicationAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Marki\source\repos\WebApplicationAPI\WebApplicationAPI\obj\Debug\netcoreapp3.1\WebApplicationAPI.csproj.CopyComplete
 C:\Users\Marki\source\repos\WebApplicationAPI\WebApplicationAPI\bin\Debug\netcoreapp3.1\GeoCoordinate.NetCore.dll
+C:\Users\Marki\source\repos\WebApplicationAPI\WebApplicationAPI\obj\Debug\netcoreapp3.1\WebApplicationAPI.csproj.AssemblyReference.cache
